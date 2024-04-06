@@ -1,0 +1,33 @@
+
+body{
+    background: linear-gradient(90deg, rgba(217,198,255,1) 0%, rgba(250,191,223,1) 51%, rgba(217,198,255,1) 100%);
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+input[type=file] {
+    display:inline-block;
+    }
+
+h3{
+    color:green;
+    }
+h1{
+    font-weight: bold;
+    }
+hr{
+    border: 5px solid black;
+    border-radius: 5px;
+    }
+
+.form-control{
+    width:20%;
+    margin: 10px;
+    display:inline-block;
+    font-size: 18px;
+}
+
+#btn-submit{
+    font-size: 20px;
+}
